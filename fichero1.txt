@@ -1,2 +1,3 @@
 Primer fichero
 Fichero para issues
+añadir texto al fichero1 y despues modificar
