@@ -1,0 +1,4 @@
+#Fichero issue.txt
+Fichero para registrar los issues
+Issue 1 - crear fichero issue.txt
+Issue 2 - arreglar fichero1.txt
