@@ -27,4 +27,3 @@ Si las ramas develop y origin/develop han divergido, desde develop hacer "git re
 Desde la rama feature hacer "git merge develop" para resolver los conflictos que van surgiendo
 Antes de hacer "git merge --squash" resolver los conflictos en la rama
 
-
