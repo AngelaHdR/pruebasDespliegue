@@ -44,7 +44,5 @@ git switch release & git fetch --prune && git merge --ff-only origin/release && 
 git switch main & git fetch --prune && git merge --ff-only origin/main && git merge --ff-only release && git push
 
 ### Actualizar la rama develop una vez el commit hecho
-git fetch --prune && git rebase origin/develop
-
-git commit -m nombreCommit && git push
+git fetch --prune && git rebase origin/develop && git push
 
